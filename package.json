@@ -1,0 +1,32 @@
+{
+  "name": "ReactDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metallica8023/ReactDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metallica8023/ReactDemo/issues"
+  },
+  "homepage": "https://github.com/metallica8023/ReactDemo",
+  "jspm": {
+    "dependencies": {
+      "css": "github:systemjs/plugin-css@^0.1.19",
+      "react": "npm:react@0.14.0-rc1",
+      "react-dom": "npm:react-dom@0.14.0-rc1",
+      "semantic-ui": "github:Semantic-Org/Semantic-UI@^2.1.6"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  }
+}
