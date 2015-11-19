@@ -1,0 +1,23 @@
+{
+  "name": "ReactDemo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "metallica8023 <metallica8023@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/metallica8023/ReactDemo",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.3"
+  }
+}
